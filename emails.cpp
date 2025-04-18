@@ -19,4 +19,5 @@ int main() {
         cout << match.str() << endl;
         +it;
     }
+    return 0;
 }
